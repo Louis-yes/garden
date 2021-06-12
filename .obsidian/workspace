@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "673e9e8c6d7f366b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f5a492c1de316ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hola.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7d562cac0eee5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "c84b6d7e082d2fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37cfa794854c065d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaa6d08f65362bc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dee50405ea0f413",
+    "type": "split",
+    "children": [
+      {
+        "id": "79fce75b49a0310a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8eb7156a4351100",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hola.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f5a492c1de316ac",
+  "lastOpenFiles": [
+    "Hola.md",
+    "As good as anything.md",
+    "A good room.md",
+    "good room.md",
+    "Untitled.md"
+  ]
+}
