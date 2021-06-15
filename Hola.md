@@ -3,4 +3,4 @@
 
 [[As good as anything| So here I go]] 🌱 
 
-In the spirit of creating [[A good room]]
+In the spirit of creating [[A good room]] and improving my writing, because [[I understand the world by describing it]]

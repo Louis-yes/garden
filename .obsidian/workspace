@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "I understand the world by describing it.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "I understand the world by describing it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,12 @@
   },
   "active": "9f5a492c1de316ac",
   "lastOpenFiles": [
+    "I understand the world by describing it.md",
     "README.md",
     "Hola.md",
     "As good as anything.md",
     "A good room.md",
+    "poetic use of language.md",
     "good room.md",
     "Untitled.md"
   ]
