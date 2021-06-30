@@ -1,0 +1,1 @@
+I find using *useful/helpful* and *unhelpful* to be ~~good~~ *helpful* for describing actions, heuristics and thoughts because it avoids the vague, unexamined subjectivy of *good/bad* and skirts the pedantry of *true/correct/accurate*. Similarly *fun* skirts problematic ideas of *useful/productive/important* letting me express myself easily without stumbling or justifying it.

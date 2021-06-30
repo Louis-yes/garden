@@ -10,4 +10,4 @@ as good as rocks.
 from  
 [As Good as Anything by Alice Notly](https://www.poetryfoundation.org/poems/58192/as-good-as-anything) 
 
-A well put reminder that something is usually better than nothing, and the consequence of an average result is still better than inaction
+A well put reminder that something is usually better than nothing, and the [[art projects | consequence of an average result]] is still better than inaction

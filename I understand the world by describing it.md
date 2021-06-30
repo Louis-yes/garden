@@ -1,5 +1,5 @@
 # I understand the world by describing it
-I think poetry is important because poetry surfaces the malleability and possibility of language. Through language we build our worldviews, and through language we communicate our worldviews. The difference between words and reality is stark, and what we say isn't *true* of the world, rather it *reveals* something of the truth of the world in a way that is [[useful/meaningful/fun]]. 
+I think poetry is important because poetry surfaces the malleability and possibility of language. Through language we build our worldviews, and through language we communicate our worldviews. The difference between words and reality is stark, and what we say isn't *true* of the world, rather it *reveals* something of the truth of the world in a way that is [[useful or meaningful or fun | useful/meaningful/fun]]. 
 
 > Perhaps God is only a deep voice,  
 heard by the deaf,  

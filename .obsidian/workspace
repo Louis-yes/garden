@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "I understand the world by describing it.md",
+            "file": "useful or meaningful or fun.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I understand the world by describing it.md",
+                "file": "useful or meaningful or fun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,18 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9f5a492c1de316ac",
   "lastOpenFiles": [
-    "I understand the world by describing it.md",
-    "README.md",
-    "Hola.md",
+    "useful or meaningful or fun.md",
     "As good as anything.md",
+    "art projects.md",
+    "Hola.md",
+    "I understand the world by describing it.md",
+    "reading/Art and Objecthood.md",
+    "reading/Untitled.md",
     "A good room.md",
-    "poetic use of language.md",
-    "good room.md",
-    "Untitled.md"
+    "artprojects/A prayer you can say with your hands.md",
+    "useful/meaningful/useful or meaningful or fun.md"
   ]
 }
